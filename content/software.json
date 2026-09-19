@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "flclash-windows",
+    "title": "FlClash · Windows",
+    "icon": "W",
+    "platform": "Windows",
+    "repository": "chen08209/FlClash",
+    "description": "查看 Windows 的发行产物与安装说明。",
+    "guidance": "区分安装版与便携包，再核对处理器架构。",
+    "tag": "原始项目"
+  },
+  {
+    "slug": "flclash-macos",
+    "title": "FlClash · macOS",
+    "icon": "M",
+    "platform": "macOS",
+    "repository": "chen08209/FlClash",
+    "description": "查看 macOS 的发行产物与安装说明。",
+    "guidance": "先确认 Apple Silicon 或 Intel 芯片，按发行页选择对应包。",
+    "tag": "原始项目"
+  },
+  {
+    "slug": "flclash-android",
+    "title": "FlClash · Android",
+    "icon": "A",
+    "platform": "Android",
+    "repository": "chen08209/FlClash",
+    "description": "查看 Android 的发行产物与安装说明。",
+    "guidance": "核对 Android 版本与 CPU 架构，初次运行按系统提示处理 VPN 授权。",
+    "tag": "原始项目"
+  },
+  {
+    "slug": "flclash-linux",
+    "title": "FlClash · Linux",
+    "icon": "L",
+    "platform": "Linux",
+    "repository": "chen08209/FlClash",
+    "description": "查看 Linux 的发行产物与安装说明。",
+    "guidance": "按发行说明核对发行版、包格式与系统依赖。",
+    "tag": "原始项目"
+  }
+]

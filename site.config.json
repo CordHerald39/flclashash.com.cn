@@ -1,0 +1,96 @@
+{
+  "n": 5,
+  "domain": "flclashash.com.cn",
+  "name": "FlClash 中文指南",
+  "subject": "FlClash",
+  "theme": "fl",
+  "color": "#096e87",
+  "monogram": "Fl",
+  "wordmark": "FlClash",
+  "title": "FlClash 下载与中文配置教程",
+  "kicker": "FLCLASH / ONE GUIDE, FOUR PLATFORMS",
+  "hero": [
+    "四个平台，",
+    "一份清晰指南。"
+  ],
+  "description": "FlClash 中文指南整理 Windows、macOS、Android、Linux 安装包来源，提供架构选择、SHA256 校验、订阅导入、代理设置、WebDAV 同步与故障排查教程，明确已核验内容和实测范围。",
+  "panelCaption": "以原始项目为准，理解平台之间的区别。",
+  "scope": "跨平台下载导航",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Android",
+    "Linux"
+  ],
+  "downloadCta": "选择 FlClash 版本",
+  "downloadHeading": "你的设备，应该下载哪一个？",
+  "downloadIntro": "按系统定位下载入口，在发行页继续核对 CPU 架构与安装要求。",
+  "guideHeading": "从安装到使用，一次理清",
+  "noteTitle": "跨平台，不等于每一步都相同。",
+  "noteText": "系统权限、安装包格式和网络接管方式各有不同。先确认平台，再按对应环境检查。",
+  "serviceHeading": "配置之外，也要读懂套餐",
+  "sourceNote": "FlClash 原始项目为 chen08209/FlClash。本站提供中文整理，不分发二次打包文件。",
+  "repository": "chen08209/FlClash",
+  "topline": "FlClash CN · 跨平台中文教程",
+  "footerText": "让跨平台配置，更容易理解。",
+  "categories": [
+    [
+      "recommend",
+      "机场推荐",
+      "从客户端适配与实际需求出发，了解订阅服务。"
+    ],
+    [
+      "ranking",
+      "机场榜单",
+      "先理解测试条件，再比较服务表现。"
+    ],
+    [
+      "downloads",
+      "FlClash 下载",
+      "核对平台与架构，从原始项目下载。"
+    ],
+    [
+      "tutorials",
+      "FlClash 教程",
+      "从安装到排错，按步骤理解客户端。"
+    ],
+    [
+      "reviews",
+      "机场测评",
+      "公开方法与样本，才有可参考的结果。"
+    ],
+    [
+      "coupons",
+      "机场优惠码",
+      "确认来源、期限与套餐限制后再使用。"
+    ]
+  ],
+  "previewPort": 4177,
+  "steps": [
+    [
+      "找到下载入口",
+      "核对系统、架构与项目来源"
+    ],
+    [
+      "导入并选择配置",
+      "理解订阅与代理策略"
+    ],
+    [
+      "检查实际连接",
+      "从日志和目标应用开始"
+    ]
+  ],
+  "featuredGuides": [
+    "flclash-package-guide",
+    "import-subscription"
+  ],
+  "relatedSites": [
+    {
+      "domain": "v2rayn-us.com.cn",
+      "name": "v2rayN 桌面指南",
+      "reason": "对照跨平台文件选择和版本维护",
+      "port": 4181,
+      "published": false
+    }
+  ]
+}
